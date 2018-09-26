@@ -11,6 +11,7 @@ import br.com.enviadorEmail.EmailService;
 import br.com.listavip.model.Convidado;
 import br.com.listavip.service.ConvidadoService;
 
+
 @Controller
 public class ConvidadoController {
 	@Autowired
